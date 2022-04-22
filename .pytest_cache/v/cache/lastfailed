@@ -1,0 +1,4 @@
+{
+  "test_calculatorApp.py::TestCalculateWithoutMock::test_calculate": true,
+  "test_calculatorApp.py::TestCalculate::test_user_input": true
+}

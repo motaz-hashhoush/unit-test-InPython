@@ -1,0 +1,12 @@
+[
+  "test_calculatorApp.py::TestCalculate::test_AddPass",
+  "test_calculatorApp.py::TestCalculate::test_add",
+  "test_calculatorApp.py::TestCalculate::test_calculate",
+  "test_calculatorApp.py::TestCalculate::test_check_user_input",
+  "test_calculatorApp.py::TestCalculate::test_divide",
+  "test_calculatorApp.py::TestCalculate::test_isExit",
+  "test_calculatorApp.py::TestCalculate::test_multiply",
+  "test_calculatorApp.py::TestCalculate::test_subtrack",
+  "test_calculatorApp.py::TestCalculate::test_subtract",
+  "test_calculatorApp.py::TestCalculate::test_user_input"
+]
